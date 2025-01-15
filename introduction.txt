@@ -1,0 +1,41 @@
+- General Concepts
+- ERD 
+
+DBMS Examples:
+
+- MS Access
+- MY SQL
+- Postgres
+- Oracle
+- MS SQL Server  (Worked)
+
+
+Entity :  Employees  
+
+- Emp No              Key
+- Emp Name            Composite
+- Emp Address         Composite
+- Emp Salary          Normal
+- Emp Mobile          Key , MV
+- Emp Mail            Key , MV
+- Emp Birth Date      Normal
+- Emp Hire Date       Normal
+- Emp Age             Derived
+
+
+Relations Degree:
+- Binary  (Between 2 Entities)
+- Recursive (Between 1 Entity)
+- Ternorary (Between 3 Entities)
+
+SQL Server 2022
+SSMS
+
+
+
+
+
+
+
+
+
